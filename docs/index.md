@@ -4,8 +4,8 @@ I am very interested in Computer Science. <br>
 Recently, I am addicted to CTF. Here is my CTF team : [AWP?](https://ctftime.org/team/154623)
 
 # Blogs / Works
-GitHub : https://github.com/r3dr000ck<br>
-Blog : https://r3dr0ck.hatenablog.com/<br>
+GitHub : [GitHub](https://github.com/r3dr000ck)<br>
+Blog : [Blog](https://r3dr0ck.hatenablog.com/)<br>
 Twitter : [@r3dr0ck_](https://twitter.com/r3dr0ck_)<br>
 Discord : redrock#6124
 

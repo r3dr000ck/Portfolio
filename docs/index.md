@@ -3,11 +3,14 @@ Hello World! My name is RedRock. I am a 15 year-old high school student in Japan
 I am very interested in Computer Science. <br>
 Recently, I am addicted to CTF. Here is my CTF team : [AWP?](https://ctftime.org/team/154623)
 
-# Blogs / Works
+# Blogs
 GitHub : [GitHub](https://github.com/r3dr000ck)<br>
 Blog : [Blog](https://r3dr0ck.hatenablog.com/)<br>
 Twitter : [@r3dr0ck_](https://twitter.com/r3dr0ck_)<br>
 Discord : redrock#6124
+
+# Works
+Nothing here...
 
 # Achievements
 picoCTF 2021 3rd in Japan<br>

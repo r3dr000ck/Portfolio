@@ -19,4 +19,5 @@ picoCTF 2022 9th in Japan
 # Books / Papers Read(ing)
 1. [The Elements of Computing Systems](https://www.nand2tetris.org/) <br>
 2. [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook) <br>
-3. [Flipping Bits in Memory Without Accessing Them : An Experimental Study of DRAM Disturbance Errors](https://research.ece.cmu.edu/safari/pubs/kim-isca14.pdf)
+3. [Flipping Bits in Memory Without Accessing Them : An Experimental Study of DRAM Disturbance Errors](https://research.ece.cmu.edu/safari/pubs/kim-isca14.pdf)<br>
+4. [RAMBleed: Reading Bits in Memory Without Accessing Them](https://rambleed.com/docs/20190603-rambleed-web.pdf)

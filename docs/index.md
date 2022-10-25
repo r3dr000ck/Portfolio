@@ -1,7 +1,7 @@
 # About Me
-Hello World! My name is RedRock. I am a 15 year-old high school student in Japan.<br>
-I am very interested in Computer Science. <br>
-Recently, I am addicted to CTF. Here is my CTF team : [AWP?](https://ctftime.org/team/154623)
+Hello World! I am RedRock. I am a 16 year-old high school student in Japan.<br>
+I am researching in computer architecture, and educational psychology. <br>
+Here is My CTF team : [AWP?](https://ctftime.org/team/154623) <br>
 
 # Blogs
 GitHub : [GitHub](https://github.com/r3dr000ck)<br>

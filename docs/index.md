@@ -1,5 +1,5 @@
 # About Me
-A wild RedRock appeared.<br>
+RedRock<br>
 - 16 years old
 - Japanese🗾
 - Researching in computer architecture, and educational psychology
